@@ -17,16 +17,10 @@ class GitHubRepos extends Component {
                     gitrepos.map((repo, i) => {
                         return  (
                             <div className="row" key={i}>
-                                <div className="col-lg-11 text-left" style={{marginBottom: "30px"}}>
+                                <div className="col-lg-12 text-left" style={{marginBottom: "30px"}}>
                                     <a href={repo.html_url}><h5>{repo.full_name}</h5></a>
                                     <p>{repo.description}</p>
                                 </div>
-                                <div className="col-lg-1">
-                                    <div className="row">
-                                        <span style={{float: "right"}} className="badge badge-success">{repo.forks_count} forks</span>
-                                    </div>
-                                </div>
-
                             </div>
                         );
                     })

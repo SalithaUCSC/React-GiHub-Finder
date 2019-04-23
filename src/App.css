@@ -33,3 +33,16 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.social {
+  text-align: center;
+  font-size: 1.5em;
+  margin-left: -20px;
+  /* display: block !important; */
+}
+
+.social li{
+  display: inline;
+  margin-right: 20px;
+  color: #000000;
+}
