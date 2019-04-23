@@ -1,7 +1,9 @@
 # React-GiHub-Finder
 ## Web application developed using React JS and GitHub API to fetch GitHub user details
 
-![gitfinder](https://user-images.githubusercontent.com/23145752/49341059-2ad15f00-f66e-11e8-9228-9a5486ce5425.png)
+![git1](https://user-images.githubusercontent.com/23145752/56548314-69c06c80-659d-11e9-8a3e-367a01b5790b.png)
+
+![git2](https://user-images.githubusercontent.com/23145752/56548315-69c06c80-659d-11e9-94c2-c3251d3aaeaa.png)
 
 ### Instructions:
 1. Download and extract project.
